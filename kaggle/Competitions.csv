@@ -1,4 +1,4 @@
-Id,Slug,Title,Subtitle,HostSegmentTitle,HostName,EnabledDate,DeadlineDate
+CompetitionId,CompetitionSlug,CompetitionTitle,CompetitionSubtitle,CompetitionHostSegmentTitle,CompetitionHostName,CompetitionEnabledDate,CompetitionDeadlineDate
 2408,Eurovision2010,Forecast Eurovision Voting,"This competition requires contestants to forecast the voting for this year's Eurovision Song Contest in Norway on May 25th, 27th and 29th.",Featured,,04/07/2010 07:57:43,05/25/2010 18:00:00
 2435,hivprogression,Predict HIV Progression,"This contest requires competitors to predict the likelihood that an HIV patient's infection will become less severe, given a small dataset and limited clinical information.",Featured,,04/27/2010 21:29:09,08/02/2010 12:32:00
 2438,worldcup2010,World Cup 2010 - Take on the Quants,Quants at Goldman Sachs and JP Morgan have modeled the likely outcomes of the 2010 World Cup. Can you do better?,Featured,,06/03/2010 08:08:08,06/11/2010 13:29:00

@@ -1,4 +1,4 @@
-Id,TeamId,UserId,RequestDate
+MembershipId,TeamId,UserId,MembershipRequestDate
 16458,518,635,
 16464,526,839,
 16465,527,816,
