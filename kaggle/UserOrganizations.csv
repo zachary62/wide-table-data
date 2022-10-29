@@ -1,4 +1,4 @@
-Id,UserId,OrganizationId
+UserOrganizationId,UserId,OrganizationId
 1,13209,2
 3,993,4
 4,699407,4

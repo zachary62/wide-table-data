@@ -1,4 +1,4 @@
-"Id","Name","Slug","CreationDate","Description"
+"OrganizationId","OrganizationName","OrganizationSlug","OrganizationCreationDate","OrganizationDescription"
 "2","Facebook","facebook","07/25/2016","Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.
 
 The Facebook Data Science team builds scalable platforms for the collection, management, and analysis of data.
